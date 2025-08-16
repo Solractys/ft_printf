@@ -133,7 +133,6 @@ typedef struct s_print
 - ✅ **Norminette**: Código deve seguir a norma da 42
 - ✅ **Makefile**: Regras obrigatórias implementadas
 - ✅ **Funcionalidade**: Todas as conversões funcionando
-- ✅ **Flags**: Implementação correta das flags
 - ✅ **Valor de Retorno**: Número correto de caracteres
 - ✅ **Gestão de Memória**: Sem vazamentos (leaks)
 
